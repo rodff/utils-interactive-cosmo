@@ -1,5 +1,5 @@
 '''
-Interactive code to iteratively compute redshift or lookback time.
+Interactive code to interatively compute redshift or lookback time.
 
 Remember to change the cosmology if you don't want to use Planck15 results.
 '''
